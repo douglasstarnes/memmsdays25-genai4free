@@ -1,1 +1,1 @@
-Finished walkthroughs and labs for 05-ollama
+Finished walkthroughs and labs for 06-ollama
